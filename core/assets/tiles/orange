@@ -1,0 +1,200 @@
+Explode
+- Delay -
+active: false
+- Duration - 
+lowMin: 600.0
+lowMax: 600.0
+- Count - 
+min: 0
+max: 999
+- Emission - 
+lowMin: 20.0
+lowMax: 20.0
+highMin: 300.0
+highMax: 300.0
+relative: false
+scalingCount: 4
+scaling0: 0.26530612
+scaling1: 0.71428573
+scaling2: 0.3265306
+scaling3: 0.30612245
+timelineCount: 4
+timeline0: 0.0
+timeline1: 0.37671232
+timeline2: 0.4041096
+timeline3: 1.0
+- Life - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 1500.0
+highMax: 1500.0
+relative: false
+scalingCount: 3
+scaling0: 0.26530612
+scaling1: 0.67346936
+scaling2: 0.3469388
+timelineCount: 3
+timeline0: 0.0
+timeline1: 0.26027396
+timeline2: 0.94520545
+independent: false
+- Life Offset - 
+active: false
+independent: false
+- X Offset - 
+active: false
+- Y Offset - 
+active: false
+- Spawn Shape - 
+shape: ellipse
+edges: false
+side: bottom
+- Spawn Width - 
+lowMin: -200.0
+lowMax: -200.0
+highMin: 500.0
+highMax: 500.0
+relative: true
+scalingCount: 4
+scaling0: 1.0
+scaling1: 0.07926829
+scaling2: 0.8719512
+scaling3: 1.0
+timelineCount: 4
+timeline0: 0.0
+timeline1: 0.15185185
+timeline2: 0.52962965
+timeline3: 1.0
+- Spawn Height - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 500.0
+highMax: 500.0
+relative: true
+scalingCount: 3
+scaling0: 0.0
+scaling1: 0.06122449
+scaling2: 0.1632653
+timelineCount: 3
+timeline0: 0.0
+timeline1: 0.37671232
+timeline2: 0.9931507
+- X Scale - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 200.0
+highMax: 200.0
+relative: false
+scalingCount: 5
+scaling0: 0.2244898
+scaling1: 0.4489796
+scaling2: 0.5510204
+scaling3: 0.8367347
+scaling4: 1.0
+timelineCount: 5
+timeline0: 0.0
+timeline1: 0.11643836
+timeline2: 0.34246576
+timeline3: 0.6917808
+timeline4: 1.0
+- Y Scale - 
+active: false
+- Velocity - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 500.0
+highMax: 200.0
+relative: false
+scalingCount: 3
+scaling0: 1.0
+scaling1: 0.0
+scaling2: 0.40816328
+timelineCount: 3
+timeline0: 0.0
+timeline1: 0.5479452
+timeline2: 0.96575344
+- Angle - 
+active: false
+- Rotation - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 180.0
+highMax: 180.0
+relative: false
+scalingCount: 2
+scaling0: 1.0
+scaling1: 0.75510204
+timelineCount: 2
+timeline0: 0.0
+timeline1: 1.0
+- Wind - 
+active: false
+- Gravity - 
+active: true
+lowMin: 0.0
+lowMax: 100.0
+highMin: 400.0
+highMax: 400.0
+relative: true
+scalingCount: 5
+scaling0: 0.0
+scaling1: 0.24390244
+scaling2: 0.23780487
+scaling3: 0.8414634
+scaling4: 1.0
+timelineCount: 5
+timeline0: 0.0
+timeline1: 0.098148145
+timeline2: 0.21666667
+timeline3: 0.36481482
+timeline4: 0.9685185
+- Tint - 
+colorsCount: 12
+colors0: 0.92156863
+colors1: 0.9098039
+colors2: 0.8980392
+colors3: 0.70980394
+colors4: 0.36078432
+colors5: 0.19215687
+colors6: 0.72156864
+colors7: 0.61960787
+colors8: 0.28627452
+colors9: 0.08627451
+colors10: 0.078431375
+colors11: 0.07450981
+timelineCount: 4
+timeline0: 0.0
+timeline1: 0.15745394
+timeline2: 0.37855947
+timeline3: 1.0
+- Transparency - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 1.0
+highMax: 1.0
+relative: false
+scalingCount: 5
+scaling0: 0.03508772
+scaling1: 0.17682926
+scaling2: 0.3597561
+scaling3: 0.12804878
+scaling4: 0.0
+timelineCount: 5
+timeline0: 0.0
+timeline1: 0.17943925
+timeline2: 0.41308412
+timeline3: 0.5962617
+timeline4: 1.0
+- Options - 
+attached: false
+continuous: false
+aligned: false
+additive: false
+behind: false
+premultipliedAlpha: false
+spriteMode: random
+- Image Paths -
+/Users/athena/Documents/CS3152/Tower-Offense/core/particles/White puff/whitePuff22.png
+

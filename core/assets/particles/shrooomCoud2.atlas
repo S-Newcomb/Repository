@@ -1,0 +1,69 @@
+
+shrooomCoud2.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+whitePuff03
+  rotate: false
+  xy: 385, 28
+  size: 353, 383
+  orig: 353, 383
+  offset: 0, 0
+  index: -1
+whitePuff06
+  rotate: false
+  xy: 423, 414
+  size: 400, 383
+  orig: 400, 383
+  offset: 0, 0
+  index: -1
+whitePuff07
+  rotate: false
+  xy: 1127, 22
+  size: 367, 362
+  orig: 367, 362
+  offset: 0, 0
+  index: -1
+whitePuff08
+  rotate: false
+  xy: 2, 413
+  size: 419, 384
+  orig: 419, 384
+  offset: 0, 0
+  index: -1
+whitePuff09
+  rotate: false
+  xy: 1204, 392
+  size: 368, 405
+  orig: 368, 405
+  offset: 0, 0
+  index: -1
+whitePuff17
+  rotate: false
+  xy: 740, 39
+  size: 385, 345
+  orig: 385, 345
+  offset: 0, 0
+  index: -1
+whitePuff19
+  rotate: false
+  xy: 825, 386
+  size: 377, 411
+  orig: 377, 411
+  offset: 0, 0
+  index: -1
+whitePuff22
+  rotate: false
+  xy: 1574, 406
+  size: 361, 391
+  orig: 361, 391
+  offset: 0, 0
+  index: -1
+whitePuff23
+  rotate: false
+  xy: 2, 2
+  size: 381, 409
+  orig: 381, 409
+  offset: 0, 0
+  index: -1

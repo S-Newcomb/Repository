@@ -1,0 +1,41 @@
+
+fireAtlas.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blackSmoke08
+  rotate: false
+  xy: 2, 2
+  size: 378, 415
+  orig: 378, 415
+  offset: 0, 0
+  index: -1
+flash05
+  rotate: false
+  xy: 2, 419
+  size: 525, 534
+  orig: 525, 534
+  offset: 0, 0
+  index: -1
+whitePuff09
+  rotate: false
+  xy: 529, 548
+  size: 368, 405
+  orig: 368, 405
+  offset: 0, 0
+  index: -1
+whitePuff22
+  rotate: false
+  xy: 899, 562
+  size: 361, 391
+  orig: 361, 391
+  offset: 0, 0
+  index: -1
+whitePuff24
+  rotate: false
+  xy: 1262, 591
+  size: 370, 362
+  orig: 370, 362
+  offset: 0, 0
+  index: -1
